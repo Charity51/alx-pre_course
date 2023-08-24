@@ -1,2 +1,1 @@
-
-we have created a new directory called  0x01-git in your alx-pre_course repo
+creating a directory and file inside my alx-pre_course repo 
